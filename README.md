@@ -6,5 +6,5 @@ Following here, I would write a standard way of creating racing bar analysis whi
 
 Dataset CSV file contains the population of 81 Turkish provinces between 2007 and 2018. This file is extracted from Turkish Institute of Statistics databases.
 
-**Library Used: race-bar-chart******
+**Library Used: race-bar-chart**
 https://pypi.org/project/bar-chart-race/
