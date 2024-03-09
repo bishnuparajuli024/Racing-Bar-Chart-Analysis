@@ -1,6 +1,6 @@
 # Racing-Bar-Chart-Analysis
 
-This is one of those tools that i was always fascinated in terms of visualization. Bar charts moving so seamlessly, beautiful, yeah?
+This is one of those tools that i was always fascinated in terms of visualization. Bar charts moving so seamlessly, beautiful, yeah? In the futre, my goal is to integrate a lot of data that is available about Nepal and make visualizations more accessible.
 
 Following here, I would write a standard way of creating racing bar analysis which can be handy for anyone to learn and explore.
 
